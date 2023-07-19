@@ -13,3 +13,4 @@ The exercises include:
 1. Introduction to Quantum Computing
 2. Introduction to Quantum Computing 2
 3. The Grover Algorithm and Amplitude Estimation
+4. Optimisation and the Variational Quantum Eigensolver
