@@ -14,3 +14,4 @@ The exercises include:
 2. Introduction to Quantum Computing 2
 3. The Grover Algorithm and Amplitude Estimation
 4. Optimisation and the Variational Quantum Eigensolver
+5. Variational Quantum Circuit for the Titanic dataset
