@@ -4,3 +4,5 @@ scikit-learn
 qiskit_ibm_provider
 matplotlib
 pandas
+torch
+torchvision
