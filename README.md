@@ -15,3 +15,5 @@ The exercises include:
 3. The Grover Algorithm and Amplitude Estimation
 4. Optimisation and the Variational Quantum Eigensolver
 5. Variational Quantum Circuit for the Titanic dataset
+6. Quadratic Unconstrained Binary Optimization
+7. Quantum Approximate Optimization Algorithm
